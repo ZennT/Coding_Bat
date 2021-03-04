@@ -18,6 +18,7 @@ public class diff {
 //        }
 
  //       ---------------
+
         int n = 0;
         int diff = 0;
         //public int diff21(int n) {
